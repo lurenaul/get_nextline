@@ -17,15 +17,6 @@ The main goal is to understand static variables, dynamic memory allocation, and 
 - 42 Norm documentation
 - get_next_line subject PDF (available on your 42 intranet)
 
-### AI Usage
-AI tools were **not used** in the development of this project to ensure full understanding of:
-- Static variable behavior and lifetime
-- File descriptor management and the read() system call
-- Dynamic memory allocation strategies
-- Buffer management techniques
-- Edge case handling (EOF, errors, varying buffer sizes)
-
-*If AI was used for any specific task, specify here which parts and for what purpose (e.g., debugging specific edge cases, understanding man pages, etc.)*
 
 ## Technical Choices
 
